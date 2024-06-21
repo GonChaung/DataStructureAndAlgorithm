@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Arrays;
 import java.util.Stack;
-//  I still figuring this part. That was copy from GKG. I'm tring to understand this program
+//  I still figuring this part. That was copy from GFG. I'm tring to understand this program
 public class AdjacentDuplicate {
     public static String rremove(String S) {
         char[] newString = S.toCharArray(); // Convert the string to a char array
