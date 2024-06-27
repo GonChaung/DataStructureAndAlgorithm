@@ -1,4 +1,4 @@
-package Recursion;
+package main.Recursion;
 
 public class MathCase {
     public double powerOfANumber(double n, double exponent) {

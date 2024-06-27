@@ -1,4 +1,4 @@
-package Recursion;
+package main.Recursion;
 
 import java.util.Arrays;
 import java.util.Stack;

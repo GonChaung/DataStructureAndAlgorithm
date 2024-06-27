@@ -1,4 +1,4 @@
-package Recursion;
+package main.Recursion;
 
 public class HanoiTower {
     public static void towerOfHanoi(int n, char from_rod, char to_rod, char aux_rod){
