@@ -55,7 +55,7 @@ public class MergeSort implements Sortable{
 
     }
     public static void main(String[] args) {
-        int arr[] = new int[]{8,3};
+        int arr[] = new int[]{8,3,5,-4,-1,9,6};
         //Util.print("Arr ",arr);
         Sortable algo = new MergeSort();
         algo.sort(arr);
